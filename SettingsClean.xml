@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<robocopy_working_files>
+    <roboSourceDir>c:/files/</roboSourceDir>
+    <roboDestDir>e:/files/</roboDestDir>
+    <roboLogDir>c:\files\apps\it-powershell\2018-05-16-robocopy-working-files\logs\</roboLogDir>
+    <roboLogFile>working-files-log-</roboLogFile>
+    <exePath7z>C:\Program Files\7-Zip\7z.exe</exePath7z>
+    <ziplist>e:\files\apps,e:\files\sys,e:\files\textpad,e:\files\dba</ziplist>
+    <zipDestDir>e:\backup\</zipDestDir>
+    <netDestDir>\\servername\path\backup\</netDestDir>
+</robocopy_working_files>
